@@ -10,7 +10,7 @@ body {
   color: #222;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  background: url('bg.jpg');
+  background: url('Assets/img/bg.jpg');
 }
 
 #login-box {
